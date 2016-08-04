@@ -1,0 +1,38 @@
+_repo: Orlando-Furioso_615
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rose, William Stewart
+    birthdate: 1775
+    deathdate: 1843
+    gutenberg_agent_id: '32278'
+    url: http://www.gutenberg.org/2009/agents/32278
+    wikipedia: http://en.wikipedia.org/wiki/William_Stewart_Rose
+creator:
+  author:
+    agent_name: Ariosto, Lodovico
+    aliases:
+    - Ariost, Lodovico
+    - Ariosto, Ludovico
+    birthdate: 1474
+    deathdate: 1533
+    gutenberg_agent_id: '322'
+    url: http://www.gutenberg.org/2009/agents/322
+    wikipedia: http://en.wikipedia.org/wiki/Ludovico_Ariosto
+description: ''
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, Italian -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Roland (Legendary character) -- Romances'
+- !lcsh 'Knights and knighthood -- Poetry'
+- GITenberg
+title: Orlando Furioso
+url: http://www.gutenberg.org/ebooks/615
