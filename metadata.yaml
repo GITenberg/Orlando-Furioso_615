@@ -1,5 +1,5 @@
 _repo: Orlando-Furioso_615
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Rose, William Stewart
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '32278'
     url: http://www.gutenberg.org/2009/agents/32278
     wikipedia: http://en.wikipedia.org/wiki/William_Stewart_Rose
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ariosto, Lodovico
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/322
     wikipedia: http://en.wikipedia.org/wiki/Ludovico_Ariosto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/615#Orlando-Furioso
 gutenberg_issued: '1996-08-01'
 gutenberg_type: Text
 identifiers:
